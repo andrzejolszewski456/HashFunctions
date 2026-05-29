@@ -5,7 +5,7 @@ A high-performance, lightweight C++ implementation of a Hash Map (Hash Table) wi
 Developed purely in standard modern C++ as a clean-code demonstration for technical internship evaluations.
 
 ---
-## Building and Running
+## Building and Running 
 
 ### Prerequisites
 Before building the project, ensure you have the following installed:
