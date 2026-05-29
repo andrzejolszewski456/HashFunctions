@@ -5,6 +5,24 @@ A high-performance, lightweight C++ implementation of a Hash Map (Hash Table) wi
 Developed purely in standard modern C++ as a clean-code demonstration for technical internship evaluations.
 
 ---
+## Building and Running
+
+### Prerequisites
+Before building the project, ensure you have the following installed:
+* **Operating System**: Windows 10 / 11
+* **IDE**: Microsoft Visual Studio 2022 (Community, Professional, or Enterprise)
+* **Toolset**: Microsoft Visual C++ (MSVC) supporting **C++17** or higher
+
+### Build Instructions (Visual Studio)
+1.  **Clone or Download the Repository**: Extract the project files to your local directory.
+2.  **Open the Project**: Launch Visual Studio, select `Open a project or solution`, and navigate to the `.sln` (Solution) file or the main directory containing the source files.
+3.  **Configure Build Target**: 
+    * Set the build configuration dropdown to **Release** (optimized for performance) or **Debug** (for step-by-step debugging).
+    * Set the platform architecture to **x64** or **x86** depending on your target system.
+4.  **Compile the Solution**: 
+    * Navigate to the top menu and select `Build` -> `Build Solution`, or use the keyboard shortcut `Ctrl + Shift + B`.
+
+---
 
 ## Key Features
 
