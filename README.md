@@ -20,7 +20,7 @@ Before building the project, ensure you have the following installed:
     * Set the build configuration dropdown to **Release** (optimized for performance) or **Debug** (for step-by-step debugging).
     * Set the platform architecture to **x64** or **x86** depending on your target system.
 4.  **Compile the Solution**: 
-    * Navigate to the top menu and select `Build` -> `Build Solution`, or use the keyboard shortcut `Ctrl + Shift + B`.
+    * Press F5 or click the green Start button to compile
 
 ---
 
