@@ -15,7 +15,7 @@ Before building the project, ensure you have the following installed:
 
 ### Build Instructions (Visual Studio)
 1.  **Clone or Download the Repository**: Extract the project files to your local directory.
-2.  **Open the Project**: Launch Visual Studio, select `Open a project or solution`, and navigate to the `.sln` (Solution) file or the main directory containing the source files.
+2.  **Open the Project**: Launch Visual Studio, select `Open a project or solution`, and navigate to the main directory containing the source files.
 3.  **Configure Build Target**: 
     * Set the build configuration dropdown to **Release** (optimized for performance) or **Debug** (for step-by-step debugging).
     * Set the platform architecture to **x64** or **x86** depending on your target system.
